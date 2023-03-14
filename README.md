@@ -37,9 +37,6 @@ Please star⭐ the repo if you like what you see😊.
 - [ ] Change Font Colors
 - [ ] Generate an Image for the font
 
-## 📸 Screenshots
-<img alt="Light Mode Image" src="screenshots/app_screenshot_1.jpg" height="587px" width="256px"/> <img alt="Dark Mode Image" src="screenshots/app_screenshot_2.jpg" height="587px" width="256px"/> <img alt="Search Screen Image" src="screenshots/app_screenshot_3.jpg" height="587px" width="256px"/> <img alt="Input Text Image" src="screenshots/app_screenshot_4.jpg" height="587px" width="256px"/> <img alt="Input Text Image" src="screenshots/app_screenshot_5.jpg" height="587px" width="256px"/> <img alt="Input Text Image" src="screenshots/app_screenshot_6.jpg" height="587px" width="256px"/>
-
 ## 🔌 Plugins
 
 | Name | Usage |
@@ -49,14 +46,3 @@ Please star⭐ the repo if you like what you see😊.
 | [**lottie**](https://pub.dev/packages/lottie) | For Theme Switch Animation |
 | [**google_fonts**](https://pub.dev/packages/google_fonts) | For downloading the different fonts |
 | [**flutter_native_splash**](https://pub.dev/packages/flutter_native_splash) | To show the splash screen |
-
-## 🤓 Author
-
-**[Aditya R](https://github.com/adityar224)**
-
-## 🔖 LICENSE
-Copyright (c) 2022 **[Aditya R](https://github.com/adityar224)**
-[MIT LICENSE](https://github.com/adityar224/FontGallery/blob/master/LICENSE)
-
-## 🙏 Attributions
-<a href="https://www.flaticon.com/free-icons/font-size" title="font size icons">Font size icons created by Freepik - Flaticon</a>
